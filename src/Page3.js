@@ -1,9 +1,9 @@
 import classes from './page3.module.css';
 import leftImg from './left-img.jpeg';
 import RightImg from './right-img.jpeg';
-import dataScience from './dataScience.png';
-import ai from './ai.png'
-import courses from './courses.png'
+import dataScience from './dataScience.webp';
+import ai from './AI.jpeg';
+import courses from './Course.webp'
 
 
 

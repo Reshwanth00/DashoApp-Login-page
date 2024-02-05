@@ -1,8 +1,8 @@
 import classes from "./page2.module.css";
-import picture1 from './connection.png';
-import picture2 from './learning.png';
-import picture3 from './course.png';
-import picture4 from './project-management.png';
+import picture1 from './Connect - .png';
+import picture2 from './Learn - .png';
+import picture3 from './Teach - .png';
+import picture4 from './Manage - .png';
 
 
 

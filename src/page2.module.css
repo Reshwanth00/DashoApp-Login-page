@@ -26,12 +26,12 @@
     margin-top: 100px;
     margin-bottom: 100px;
     border-radius: 15px;
-    height: 280px;
-    width: 250px;
+    height: 350px;
+    width: 260px;
 }
 
 .bodyContainer .holder .imageContainer img {
-    width: 60px;
+    width: 150px;
     aspect-ratio: 1/1;
     margin-top: 20px;
     margin-bottom: 20px;
